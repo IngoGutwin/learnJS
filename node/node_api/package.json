@@ -1,0 +1,17 @@
+{
+  "name": "rest-api with pure node",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "watch": "nodemon src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ingo Gutwin",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "nodemon": "^3.1.0",
+    "prettier": "3.2.5"
+  }
+}

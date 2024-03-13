@@ -1,0 +1,20 @@
+{
+  "name": "learnjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "web-dev-server --watch --open $PATH",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@web/dev-server": "^0.4.3"
+  },
+  "dependencies": {
+    "base64url": "^3.0.1",
+    "crypto": "^1.0.1"
+  }
+}
